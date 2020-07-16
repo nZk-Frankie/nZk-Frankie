@@ -1,6 +1,6 @@
 <div align="center">
 <img width="800" src="https://raw.githubusercontent.com/chochocolatte/chochocolatte/master/assets/gochiusa.gif"/>
-  
+  <br>
  "井の中の蛙大海を知らず,されど空の青さを知る."<br>
 「 The frog at the bottom of a well doesn't know the vastness of the sea, but it does know the blueness of the sky 」
 </div>
