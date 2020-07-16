@@ -10,6 +10,9 @@ Hello there ! Welcome to my profile. I am just a nerdy boy studying undergraduat
 * Aviation.
 * Machine Learning and Automation.
 
+## Language 
+Indonesian and English. 
+
 ## Website 
 [My personal website.](https://furanku.me) - It is built using jekyll theme and hosted on github pages.
 
