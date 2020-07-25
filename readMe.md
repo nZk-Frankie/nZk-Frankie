@@ -8,7 +8,7 @@
 </div>
 
 ## About me.
-Hello there ! Welcome to my profile. I am just a nerdy boy studying undergraduate bachelor of mechatronic engineering and computer science at Curtin University !.
+Hello there! Welcome to my profile. I am just a nerdy boy studying undergraduate bachelor of mechatronic engineering and computer science at Curtin University !.
 
 ## Interest.
 * Artificial Intellegence.
