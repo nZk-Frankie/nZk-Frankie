@@ -1,5 +1,7 @@
 <div align="center">
 <img width="800" src="https://raw.githubusercontent.com/chochocolatte/chochocolatte/master/assets/gochiusa.gif"/>
+
+## WELCOME
   
   <br>
  "井の中の蛙大海を知らず,されど空の青さを知る."<br>
